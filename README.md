@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8E5&center=true&vCenter=true&width=650&lines=Software+Development+Student+%40+ITLA;Building+Strong+Fundamentals;Learning+Web+Dev%2C+Systems+%26+Beyond;Targeting+Remote+Roles" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -26,17 +25,12 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,git,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,cpp,git,vscode" alt="tech stack icons" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Melvin-Calderon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Calderon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melvin-Calderon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
