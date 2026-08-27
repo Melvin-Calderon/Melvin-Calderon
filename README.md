@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Melvin 👋</h1>
-
+ 
 <p align="center">
-  <em>Aspiring Full-Stack Developer | Pivoting from Accounting to Software Engineering</em>
+  <em>Software Development Student @ ITLA | Building Strong Fundamentals | Learning Web Dev, Systems & Beyond | Targeting Remote Roles</em>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8E5&center=true&vCenter=true&width=650&lines=Software+Development+Student+%40+ITLA;Building+Strong+Fundamentals;Learning+Web+Dev%2C+Systems+%26+Beyond;Targeting+Remote+Roles" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8E5&center=true&vCenter=true&width=500&lines=Full+Stack+JS+Developer+in+Training;Building+my+GitHub+portfolio;Aiming+for+remote+work+worldwide" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,cs,cpp,git,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,git,vscode" alt="tech stack icons" />
 </p>
 
 ---
@@ -34,28 +34,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Melvin-Calderon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Calderon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melvin-Calderon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 🌱 Currently Learning
 
-- Full Stack JavaScript fundamentals (React + Node.js)
-- Data structures & algorithms
+- **HTML, CSS & JavaScript** — building the fundamentals before moving into React
 - Git / GitHub workflows and open-source basics
+- 🎯 Next up: React + Node.js (Full Stack JS path)
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/melvin-junior-calderon-dominguez-/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:melvin.junior.calderon@gmail.com">
