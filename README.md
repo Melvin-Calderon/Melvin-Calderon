@@ -1,16 +1,68 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Melvin 👋</h1>
 
-<!--
-**Melvin-Calderon/Melvin-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Aspiring Full-Stack Developer | Pivoting from Accounting to Software Engineering</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8E5&center=true&vCenter=true&width=500&lines=Full+Stack+JS+Developer+in+Training;Building+my+GitHub+portfolio;Aiming+for+remote+work+worldwide" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Incoming student at **ITLA** (Instituto Tecnológico de Las Américas) — *Desarrollo de Software*, Santo Domingo 🇩🇴
+- 💼 Currently working as a call center representative while transitioning into tech
+- 🔄 Came from an **accounting background** before pivoting to software development
+- 🎯 Focused on **Full Stack JavaScript** (React + Node.js) as my primary path
+- 🧭 Also exploring other branches — C#/.NET, Cloud/DevOps, and C++/graphics — to find what I enjoy most
+- 📜 Working toward the **Meta Front-End Developer** certificate
+- 🌍 Long-term goal: become a strong, competitive engineer for the **global remote job market**
+- 💬 Comfortable working in both Spanish and English
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,cs,cpp,git,vscode" alt="tech stack icons" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- Full Stack JavaScript fundamentals (React + Node.js)
+- Data structures & algorithms
+- Git / GitHub workflows and open-source basics
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=2EA8E5&style=flat" alt="Profile views" />
+</p>
